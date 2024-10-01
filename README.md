@@ -19,7 +19,7 @@ I'm a **Full-stack Developer** from Rwanda, passionate about building seamless w
 
 ## 📫 Get in Touch
 - **Email:** [cyusasnaveee@gmail.com](mailto:cyusasnaveee@gmail.com)
-- **LinkedIn:** [Snave Cyusa](https://www.linkedin.com/in/snave-cyusa)
+- **LinkedIn:** [Snave Cyusa]([https://www.linkedin.com/in/snave-cyusa](https://www.linkedin.com/in/snave-cyusa-470a28314/))
 
 ## 💬 About Me
 I’m a motivated, hard-working developer who’s always eager to learn and improve my skills. I thrive in team environments and take pride in going the extra mile to ensure client satisfaction.
