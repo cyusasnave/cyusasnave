@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Snave Cyusa!
+# 👋 Hi, I'm Snave CYUSA!
 
-I'm a **Full-stack Developer** from Rwanda, passionate about building seamless web applications from front-end to back-end. I specialize in creating dynamic and responsive websites that blend creativity with efficiency. I'm experienced in delivering high-quality solutions.
+I’m a curious, driven, and detail-oriented person who enjoys understanding how things work and finding better ways to build them. I’m naturally drawn to challenging problems, especially those that require thoughtful reasoning, creativity, and attention to detail. I value continuous learning, take pride in doing things well, and approach every challenge with a strong sense of ownership. I’m always looking to grow, push my limits, and create meaningful results through the things I build.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -11,9 +11,6 @@ I'm a **Full-stack Developer** from Rwanda, passionate about building seamless w
 ## 📫 Get in Touch
 - **Email:** [cyusasnaveee@gmail.com](mailto:cyusasnaveee@gmail.com)
 - **LinkedIn:** [Snave Cyusa](https://www.linkedin.com/in/snave-cyusa-470a28314)
-
-## 💬 About Me
-I’m a motivated, hard-working developer who’s always eager to learn and improve my skills. I thrive in team environments and take pride in going the extra mile to ensure client satisfaction.
 
 ---
 
